@@ -1,0 +1,11 @@
+{
+    "name": "exampleModule",
+    "version": "1.0.0",
+    "description": "test module i guess :)",
+    "main": "index.js",
+    "author": "Hundeklemmen",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drupijs/exampleModule"
+    }
+}
