@@ -4,6 +4,9 @@
     "description": "test module i guess :)",
     "main": "index.js",
     "author": "Hundeklemmen",
+    "dependencies": [
+        "TextUtils"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/drupijs/exampleModule"
